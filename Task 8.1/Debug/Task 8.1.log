@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+E:\Studies\Courses\Имитационное моделирование\5. Task 8.1\Task 8.1\Task 8.1\MyForm.cpp(10,32): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+E:\Studies\Courses\Имитационное моделирование\5. Task 8.1\Task 8.1\Task 8.1\MyForm.cpp(20,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Task 8.1.vcxproj -> E:\Studies\Courses\Имитационное моделирование\5. Task 8.1\Task 8.1\Debug\Task 8.1.exe
