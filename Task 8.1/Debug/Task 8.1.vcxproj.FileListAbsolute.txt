@@ -1,3 +1,0 @@
-E:\Studies\Courses\Имитационное моделирование\5. Task 8.1\Task 8.1\Task 8.1\Debug\Task 8.1.vcxproj.AssemblyReference.cache
-E:\Studies\Courses\Имитационное моделирование\5. Task 8.1\Task 8.1\Task 8.1\Debug\Task81.MyForm.resources
-E:\Studies\Courses\Имитационное моделирование\5. Task 8.1\Task 8.1\Task 8.1\Debug\Task 8.1.vcxproj.GenerateResource.cache
